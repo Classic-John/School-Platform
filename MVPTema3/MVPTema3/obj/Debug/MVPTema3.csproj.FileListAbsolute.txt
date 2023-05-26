@@ -1,0 +1,171 @@
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe.config
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\MVPTema3.pdb
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\AttachedCommandBehavior.dll
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.dll
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.dll
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.dll
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.xml
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.xml
+E:\Visual Studio Projects\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.xml
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csprojAssemblyReference.cache
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MainWindow.g.cs
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\App.g.cs
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.cache
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.lref
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MainWindow.baml
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.g.resources
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.Properties.Resources.resources
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.GenerateResource.cache
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CopyComplete
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.exe
+E:\Visual Studio Projects\MVPTema3\MVPTema3\obj\Debug\MVPTema3.pdb
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe.config
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.pdb
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\AttachedCommandBehavior.dll
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MainWindow.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\App.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.cache
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.lref
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MainWindow.baml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.g.resources
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.Properties.Resources.resources
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.GenerateResource.cache
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CopyComplete
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.exe
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.pdb
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.baml
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe.config
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.pdb
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\AttachedCommandBehavior.dll
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.dll
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.dll
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.dll
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.xml
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.xml
+E:\MVPTema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.xml
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csprojAssemblyReference.cache
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MainWindow.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\App.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.cache
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.lref
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MainWindow.baml
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.baml
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.g.resources
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.Properties.Resources.resources
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.GenerateResource.cache
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CoreCompileInputs.cache
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CopyComplete
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.exe
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.pdb
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.baml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.baml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.baml
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.baml
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.baml
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.g.cs
+E:\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.baml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.g.cs
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.baml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.baml
+C:\Users\Ioana\MVPTema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe.config
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\MVPTema3.pdb
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\AttachedCommandBehavior.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.lref
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.g.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.Properties.Resources.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CopyComplete
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3-master\MVPTema3\MVPTema3\obj\Debug\MVPTema3.pdb
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe.config
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\MVPTema3.pdb
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\AttachedCommandBehavior.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3_MarkupCompile.lref
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\AdminView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\HeadTeacherView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\LoginView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\StudentView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\Views\TeacherView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.g.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.Properties.Resources.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.csproj.CopyComplete
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema3\MVPTema3\MVPTema3\obj\Debug\MVPTema3.pdb
